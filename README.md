@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Réa 👋</h1>
 
-<!--
-**reamourad/reamourad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 CS Student • 🎮 C++/C# Developer • 🔍	Knows What a Pointer Is... Probably
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages  
+`C++` &nbsp;&nbsp; `C#` &nbsp;&nbsp; `Java` &nbsp;&nbsp; `Python` &nbsp;&nbsp; `Swift` &nbsp;&nbsp; `Kotlin`
+
+### Platforms & Frameworks  
+`Android` &nbsp;&nbsp; `iOS` &nbsp;&nbsp; `Unity` &nbsp;&nbsp; `Unreal Engine`
+
+### Development Tools  
+`Git` &nbsp;&nbsp; `Visual Studio` &nbsp;&nbsp; `Android Studio` &nbsp;&nbsp; `Xcode`

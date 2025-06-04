@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Réa 👋</h1>
 
 <p align="center">
-  💻 CS Student • 🎮 C++/C# Developer • 🔍	Knows What a Pointer Is... Probably
+  💻 CS Student • 🎮 C++/C# Developer
 </p>
 
 ## 🛠️ Technical Skills

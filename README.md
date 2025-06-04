@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Réa 👋</h1>
-<p>I'm a computer scientist focused on back-end with a lot of experience in C++/C# as well as mobile development. </p> 
+<p>I'm a computer scientist focused on back-end with of experience in C++/C# as well as mobile app development. </p> 
 <h2 align="center">What can I do? </h2>
 
 <!-- Languages -->

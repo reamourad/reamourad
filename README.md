@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Réa 👋</h1>
-<p>I am a Computer Scientist with a versatile skill set: expertise in backend development using C++ and C#, plus experience in mobile app creation and AI development </p> 
+<p>I am a Computer Scientist at Concordia University. I have expertise in backend development using C++ and C#, plus experience in mobile app creation and AI development </p> 
 <h2 align="center">What can I do? </h2>
 
 <!-- Languages -->
